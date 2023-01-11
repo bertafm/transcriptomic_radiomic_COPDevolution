@@ -1,2 +1,0 @@
-# transcriptomic_radiomic_COPDevolution
-
